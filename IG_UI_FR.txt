@@ -1,0 +1,5 @@
+IGUI_FR = {
+  IGUI_PlayerText_FlaggedBook1 = "Je vais garder une trace de cela.",
+  IGUI_PlayerText_FlaggedBook2 = "Je vais m'assurer de me souvenir que j'ai déjà vu celui-ci auparavant.",
+  IGUI_PlayerText_FlaggedBook3 = "J'en ai pris note.",
+}

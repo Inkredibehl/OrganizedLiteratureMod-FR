@@ -1,0 +1,4 @@
+ContextMenu_FR = {
+    ContextMenu_ReadOnePage = "Lire la Première Page (Marqué comme Vu)"
+    ContextMenu_TooComplicated = "Niveau de compétence trop faible pour lire, mais vous pouvez lire la première page pour vous rappeler que vous l'avez trouvée",
+} 
